@@ -6,7 +6,10 @@ from selenium.webdriver.support.select import Select
 1) Verify all lables are displayed
 2) click on the button to submit
 3) get the header text and compare with the expected text
-
+//---------------------
+new code----
+4) updated
+//---------------------
 """
 driver = webdriver.Chrome(executable_path="../exeFiles/chromedriver.exe")
 try:
