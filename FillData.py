@@ -9,7 +9,6 @@ from selenium.webdriver.support.select import Select
 //---------------------
 new code----
 
-//---------------------
 5.abc
 6.bbc
 
